@@ -1,0 +1,10 @@
+{
+  {
+    "name": "resource1",
+    "url": "/resource1/resource1.url"
+  },
+  {
+    "name": "resource2",
+    "url_resource": "/resource2/url"
+  }
+}
