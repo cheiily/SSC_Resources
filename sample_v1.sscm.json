@@ -10,5 +10,7 @@
   "externalUrl": true,
   "resourceType": "STATICS_COLLECTION",
   "archiveType": ".zip",
+  "autoinstall": false,
+  "autorun": false,
   "checksum": ""
 }
