@@ -1,6 +1,7 @@
 {
   "definitionVersion": "1",
   "name": "Country flags",
+  "installDirName": "country_flags"
   "description": "Collection of standard ISO2-named country/region flag files, on flagpedia.",
   "version": "1.0",
   "isoDate": "2025-07-15T10:30:45+02:00",
