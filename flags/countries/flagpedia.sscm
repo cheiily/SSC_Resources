@@ -1,10 +1,13 @@
 {
+  "definitionVersion": "1",
   "name": "[flags] Countries",
   "description": "Collection of standard ISO2-named country/region flag files, on flagpedia.",
   "version": "1.0",
   "isoDate": "2025-07-15T10:30:45+02:00",
   "author": "flagpedia.net",
   "url": "https://flagcdn.com/h240.zip",
-  "resourceType": "EXTERNAL_RESOURCE",
-  "externalType": "ARCHIVE_ZIP"
+  "externalUrl": true,
+  "resourceType": "STATICS_COLLECTION",
+  "archiveType": ".zip"
+  "checksum": ""
 }
