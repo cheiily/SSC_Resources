@@ -1,6 +1,6 @@
 {
   "definitionVersion": "1",
-  "name": "[flags] Countries",
+  "name": "autoinstall test",
   "installName": "flagpedia",
   "description": "Collection of standard ISO2-named country/region flag files, on flagpedia.",
   "version": "1.0",
