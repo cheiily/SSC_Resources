@@ -11,8 +11,8 @@
   "url": "https://github.com/cheiily/SSC-Default-Flag-Provider/releases/download/1.1.0/ssc-flag-provider-1.1.jar",
   "externalUrl": true,
   "resourceType": "PLUGIN_JAR",
-  "archiveType": "",
+  "archiveType": null,
   "autoinstall": true,
   "autorun": false,
-  "checksum": ""
+  "checksum": null
 }
