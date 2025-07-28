@@ -1,9 +1,10 @@
 {
   "definitionVersion": "1",
-  "name": "[flags] Countries",
+  "name": "Country flags",
   "category": "flags-resources",
   "installPath": "flagpedia",
-  "description": "Collection of standard ISO2-named country/region flag files, on flagpedia.",
+  "shortDescription": "Low-res collection of standard country flag files.",
+  "description": "Collection of standard ISO2-named country/region flag files, via flagpedia, in low res.",
   "version": "1.0",
   "isoDate": "2025-07-15T10:30:45+02:00",
   "author": "flagpedia.net",
