@@ -1,0 +1,26 @@
+// Unprovided fields must be null - an empty string will be treated as a valid value.
+// Installation path resolves to installPath/installFileName, e.g. "flagpedia/h240.zip"
+{
+  "definitionVersion": "1",
+  "name": "Country Flags (files)",
+  "category": "flags-resources",
+  "installPath": "flagpedia",
+  // must contain extension, especially if archive-type
+  "installFileName": "h240.zip",
+  "shortDescription": "Collection of standard ISO2-named country/region flag files, provided by flagpedia.",
+  "description": "Collection of standard ISO2-named country/region flag files, provided by flagpedia.",
+  "version": "1.0",
+  "isoDate": "2025-07-15T10:30:45+02:00",
+  "author": "flagpedia.net",
+  "url": "https://flagcdn.com/h240.zip",
+  // true when hosted outside this repo
+  "externalUrl": true,
+  // one of STATICS_COLLECTION, STATIC_FILE, EXECUTABLE_COMMAND, PLUGIN_JAR, PROPERTIES_JSON, though as of 25.10.25 (0.3.0-alpha-3.0) only STATICS_COLLECTION and PLUGIN_JAR are functional
+  "resourceType": "STATICS_COLLECTION",
+  // qualified SPI interface name
+  "serviceInterface": null,
+  "autoinstall": false,
+  // intended for EXECUTABLE_COMMAND
+  "autorun": false,
+  "checksum": null
+}

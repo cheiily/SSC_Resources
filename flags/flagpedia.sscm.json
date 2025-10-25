@@ -1,19 +1,19 @@
 {
   "definitionVersion": "1",
-  "name": "[flags] Countries",
+  "name": "Country Flags (files)",
   "category": "flags-resources",
   "installPath": "flagpedia",
-  "shortDescription": "Collection of standard ISO2-named country/region flag files, on flagpedia.",
-  "description": "Collection of standard ISO2-named country/region flag files, on flagpedia.",
+  "installFileName": "h240.zip",
+  "shortDescription": "Collection of standard ISO2-named country/region flag files, provided by flagpedia.",
+  "description": "Collection of standard ISO2-named country/region flag files, provided by flagpedia.",
   "version": "1.0",
   "isoDate": "2025-07-15T10:30:45+02:00",
   "author": "flagpedia.net",
   "url": "https://flagcdn.com/h240.zip",
   "externalUrl": true,
   "resourceType": "STATICS_COLLECTION",
-  "archiveType": ".zip",
-  "serviceInterface": "",
+  "serviceInterface": null,
   "autoinstall": false,
   "autorun": false,
-  "checksum": ""
+  "checksum": null
 }
